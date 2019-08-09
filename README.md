@@ -1,4 +1,9 @@
-# secret-hitler-articles
+# Secret Hitler Articles
+
+*Read this in other languages: [English](README.en.md)*
+
+Aplicativo que auxilia na fase de retirada e escolha do artigos dentro do jogo ["Secret Hitler"](https://www.secrethitler.com/)
+
 
 ## Project setup
 ```
